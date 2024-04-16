@@ -1,0 +1,4 @@
+.CVForm {
+    display: flex;
+    flex-direction: column;
+}

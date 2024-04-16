@@ -2,7 +2,7 @@ function CVForm()
 {
     return (
         <>
-            <form>
+            <form className="CVForm">
                 <label htmlFor="name">Name</label>
                 <input type="name" id="name" />
                 <label htmlFor="email">Email</label>
